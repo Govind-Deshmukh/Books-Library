@@ -1,0 +1,29 @@
+{
+  "_id": {
+    "$oid": "648428e6f2f08ad52516a7a1"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "description": "The Great Gatsby is a novel by American writer F. Scott Fitzgerald. Set in the 1920s, the story explores themes of decadence, idealism, resistance to change, and social upheaval.",
+  "price": 12.99,
+  "customer_ratings": [
+    {
+      "rating": 4.5,
+      "review": "I absolutely loved this book! The writing is beautiful and the story is captivating."
+    },
+    {
+      "rating": 3.8,
+      "review": "An interesting read, but I found it a bit slow-paced."
+    }
+  ],
+  "category": "Fiction",
+  "publication_date": "1925",
+  "isbn": "978-3-16-148410-0",
+  "publisher": "Scribner",
+  "language": "English",
+  "pages": 218,
+  "format": "Paperback",
+  "availability": "In stock",
+  "discount": 0.2,
+  "quantity": "10"
+}
